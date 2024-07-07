@@ -1,0 +1,42 @@
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+# End of custom host records.
+# Start Pure
+
+#=====================================
+
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 adtech.yahooinc.com
